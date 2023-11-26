@@ -1,20 +1,32 @@
+---
+title: Installation av LSPDFR
+---
+
 # Installation av LSPDFR
----
+
 Tro det eller ej, det är väldigt enkelt att installera LSPDFR.
- ## Krav
-Det här kommer du att behöva: 
-- En <code>giltig</code> verision utav <code>Gta5</code>.
-- En dator som klarar utav att köra <code>Gta5</code>. Det kan du hitta här: https://www.ign.com/wikis/gta-5/GTA_5_PC_Specs.
 
----
+## Krav
+
+För att komma igång behöver du följande:
+
+- En `giltig` version av `Gta5`.
+- En dator som klarar av att köra `Gta5`. Datorkraven hittar du [här](https://www.ign.com/wikis/gta-5/GTA_5_PC_Specs).
+
 ## Installation
-  - Börja med att gå in på följande länk: https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/
 
-  - Tryck på den blå installations knappen 
+1. Börja med att gå till [LSPD First Response nedladdningssida](https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/).
 
- ![downloadbutton](img\downloadbutton.png)
- ![downloadbuttonfull](img\downloadbuttonfull.png)
+2. Tryck på den blå installationsknappen.
 
-  - Nu kommer en ruta upp med en massa information om Termsen. Skorlla bara lägst ner tills du ser en blå knapp med följande text "Agree & Download". <code>Klicka</code> på den blåa knapen.
+   ![downloadbutton](img/downloadbutton.png)
 
-  ![accept](img\accept.png)
+   ![downloadbuttonfull](img/downloadbuttonfull.png)
+
+3. En ruta med information om villkoren kommer att visas. Skrolla bara längst ner tills du ser en blå knapp med texten "Agree & Download". Klicka på den blåa knappen.
+
+   ![accept](img/accept.png)
+  
+4. Nu har du 2 alternativ att välja i mellan. Men för att göra det lätt så tar du det översta <code>**"lspdfr_[Version nummer]_[Build nummer]_setup.exe"**</code>
+  ![installalternativ](img/installationsalternativ.png)
+  **Tänk på:** Om du väljer Manuell installaton så måste du lägga in filerna själv.
