@@ -32,7 +32,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      description="Description will go into a meta tag in <head />">
+      description="Den text baserade verisonen utav lspdfr installationen <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
