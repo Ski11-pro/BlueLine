@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Ski11-Pro', // Usually your GitHub org/user name.
   projectName: 'BlueLine', // Usually your repo name.
-
+  deploymentBranch: 'deployment',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
