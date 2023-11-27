@@ -101,7 +101,7 @@ const config = {
       plugins: [
         [
             'docusaurus-pushfeedback',{
-                project: 'blueline'
+                project: 'p9yybfxydz'
             }
         ]
     ],
