@@ -1,9 +1,6 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-
----
-title: Installation av LSPDFR
----
+import ReactPlayer from 'react-player'
 
 # Installation av LSPDFR
 
@@ -70,8 +67,7 @@ För att komma igång behöver du följande:
 
  Nedan är det 3 olika alternativ för vart din <code>gta5</code> mapp befinner sig efter dom 3 platformarna Epic Games, Steam, Rockstar Launcher. Klicka på <code>Browse...</code> för att leta upp din <code>gta5</code>-mapp.
 
- Efter du valt klickar du "install".
- <Tabs>
+<Tabs groupId="platform">
   <TabItem value="epic" label="Epic Games" default>
     C:\Program Files\Epic Games\Gta V
   </TabItem>
@@ -82,10 +78,118 @@ För att komma igång behöver du följande:
     C:\Program Files\Rockstar Games\Grand Theft Auto V
   </TabItem>
 </Tabs>
+   Efter du valt klickar du "install".
+
 --- 
  Tryck "Finish"
 
  ![klar](img/done.png)
 
 --- 
+  Tryck "Next"
 ![well](img/wellwellwell.png)
+
+   Tryck "Show license"
+![showlicens](img/showlicense.png)
+
+<code>Vänta</code> 5 sekunder och efter det trycker du "Accept"
+![acceptliscens](img/acceptliscense.png) 
+
+
+   Tryck "Do it for me"
+![doitforme](img/doitforme.png)
+
+
+ Tryck "ok". Och så var lspdfr installerat.
+
+ ![klar](img/klar.png)
+
+Tada! 🎂🎂🎂 
+
+---
+## Starta LSPDFR
+   Nu när <code>lspdfr</code> är installerat är det dags att starta upp det.
+   
+   Beroende på vilket platfrom du spelar på är det olika hur du starta upp spelet.
+
+<Tabs groupId="platform">
+  <TabItem value="epic" label="Epic Games" default>
+    Gå till filsökvägen där du installerat lspdfr (Din gta5 mapp)
+
+    Leta upp filen "Ragepluginhook" 
+
+    ![ragepluginhook](img/ragepluginhook.png)
+   
+      Men vänta med att öpnna den tills du starta upp gta5 ifrån Epic Games.
+
+      - Gå in på Epic Games.
+      - Starta ditt gta5.
+      - Tryck <code>Alt</code><code>+</code><code>Tab</code> för att ta dig ut ifrån spelet.
+      - Gå tillbaks till gta5 mappen för att sedan klicka på ragepluginhook filen.
+
+      Första gågen du startar upp ragepluginhook kommer en ruta upp. Tryck bara "Save And Close" Nere i höger hörn **UTAN** att röra nått annat i rutan.
+
+      - Gå tillbak till gta5 som fortfarande är igång.
+
+      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>, ta dig till en polisstation som du hittar på kartan.
+
+
+
+    Video om du trycker det är lättare(videon är på engelska).
+    <ReactPlayer url='https://youtu.be/_Km7xMJthwA?t=226' />
+
+   :::tip
+
+   Dubbel klicka för att få stor bild
+
+   Klicka på videon för att pausa
+   :::
+  </TabItem>
+  <TabItem value="steam" label="Steam">
+   Gå till filsökvägen där du installerat lspdfr (Din gta5 mapp)
+
+    Leta upp filen "Ragepluginhook" 
+
+    ![ragepluginhook](img/ragepluginhook.png)
+   
+      Men vänta med att öpnna den tills du starta upp gta5 ifrån Steam.
+
+      - Gå in på Steam.
+      - Starta ditt gta5.
+      - Tryck <code>Alt</code><code>+</code><code>Tab</code> för att ta dig ut ifrån spelet.
+      - Gå tillbaks till gta5 mappen för att sedan klicka på ragepluginhook filen.
+
+      Första gågen du startar upp ragepluginhook kommer en ruta upp. Tryck bara "Save And Close" Nere i höger hörn **UTAN** att röra nått annat i rutan.
+
+      - Gå tillbak till gta5 som fortfarande är igång.
+
+      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>, ta dig till en polisstation som du hittar på kartan.
+
+   Video om du trycker det är lättare(videon är på engelska). Strunta att det står Epic Games Installation.
+    <ReactPlayer url='https://youtu.be/_Km7xMJthwA?t=226' />
+
+   :::tip
+
+   Dubbel klicka för att få stor bild
+
+   Klicka på videon för att pausa
+   :::
+
+  </TabItem>
+  <TabItem value="rockstar" label="Rockstar Launcher">
+    Gå till filsökvägen där du installerat lspdfr (Din gta5 mapp)
+
+     Leta upp filen "Ragepluginhook" 
+
+      ![ragepluginhook](img/ragepluginhook.png)
+
+      Klicka på den. 
+
+      Första gågen du startar upp ragepluginhook kommer en ruta upp. Tryck bara "Save And Close" Nere i höger hörn **UTAN** att röra nått annat i rutan.
+
+      Låt gta5 starta upp. 
+
+      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>, ta dig till en polisstation som du hittar på kartan.
+
+  </TabItem>
+</Tabs>
