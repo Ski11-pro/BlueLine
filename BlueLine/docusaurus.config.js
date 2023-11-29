@@ -72,6 +72,13 @@ const config = {
             label: 'Dokumentation',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'admin',
+            position: 'right',
+            label: 'Admin',
+            href: 'https://ski11-pro.github.io/BlueLine/admin',
+          },
+          {
             href: 'https://github.com/Ski11-pro',
             label: 'GitHub',
             position: 'right',
