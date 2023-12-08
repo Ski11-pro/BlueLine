@@ -116,8 +116,6 @@ const config = {
     }),
 };
 
-export default {
-  url: 'https://projectblueline.netlify.app', // Url to your site with no trailing slash
-  baseUrl: '/BlueLine/', // Base directory of your site relative to your repo
-  // ...
-};
+
+
+export default config;
