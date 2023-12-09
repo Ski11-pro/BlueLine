@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: gitlab
   branch: main 
   repo: https://github.com/Ski11-pro/BlueLine
 
