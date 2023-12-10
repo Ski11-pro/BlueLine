@@ -18,17 +18,17 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
-      publicFolder: "public",
+      mediaRoot: "img",
+      publicFolder: "docs",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
     collections: [
       {
-        name: "post",
+        name: "docs",
         label: "Posts",
-        path: "content/posts",
+        path: "docs",
         fields: [
           {
             type: "string",
