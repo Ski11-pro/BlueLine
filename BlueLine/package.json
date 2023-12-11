@@ -24,6 +24,7 @@
     "react": "^18.0.0",
     "react-dom": "latest",
     "react-player": "^2.13.0",
+    "tina": "^0.3.23",
     "tinacms": "^1.5.28"
   },
   "devDependencies": {
