@@ -76,7 +76,7 @@ const config = {
             sidebarId: 'admin',
             position: 'right',
             label: 'Admin',
-            href: 'https://ski11-pro.github.io/admin/index.html',
+            href: 'https://ski11-pro.github.io/admin/',
           },
           {
             href: 'https://github.com/Ski11-pro',
