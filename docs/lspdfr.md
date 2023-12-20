@@ -131,7 +131,7 @@ Tada! 🎂🎂🎂
 
       - Gå tillbak till gta5 som fortfarande är igång.
 
-      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>. Ta dig till närmaste polisstation som du hittar på kartan.
+      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>. Ta dig till närmaste polisstation som du hittar på kartan för att gå i tjänst.
 
 
     Video om du trycker det är lättare(videon är på engelska).
@@ -162,7 +162,7 @@ Tada! 🎂🎂🎂
 
       - Gå tillbak till gta5 som fortfarande är igång.
 
-      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>. Ta dig till närmaste polisstation som du hittar på kartan.
+      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>. Ta dig till närmaste polisstation som du hittar på kartan för att gå i tjänst.
 
    Video om du trycker det är lättare(videon är på engelska). Strunta att det står Epic Games Installation.
     <ReactPlayer url='https://youtu.be/_Km7xMJthwA?t=226' />
@@ -188,7 +188,7 @@ Tada! 🎂🎂🎂
 
       Låt gta5 starta upp. 
 
-      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>. Ta dig till närmaste polisstation som du hittar på kartan.
+      Låt ditt ragepluginhook ladda klart. Sen är du inne i <code>lspdfr</code>. Ta dig till närmaste polisstation som du hittar på kartan för att gå i tjänst.
 
   </TabItem>
 </Tabs>
