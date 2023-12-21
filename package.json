@@ -34,6 +34,13 @@
     "@tinacms/cli": "^1.5.39",
     "@types/node": "^20.10.4"
   },
+
+  "overrides": {
+    "@tinacms/cli": {
+      "use-deep-compare": "1.1.0"
+    }
+  },
+
   "browserslist": {
     "production": [
       ">0.5%",
