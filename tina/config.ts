@@ -14,7 +14,7 @@ export default defineConfig({
 
   build: {
     outputFolder: "admin",
-    publicFolder: "assets",
+    publicFolder: "static",
     basePath: "BlueLine"
   },
   media: {
