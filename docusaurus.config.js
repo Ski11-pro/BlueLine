@@ -71,6 +71,7 @@ const config = {
             position: 'left',
             label: 'Dokumentation',
           },
+
           {
             type: 'docSidebar',
             sidebarId: 'admin',

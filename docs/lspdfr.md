@@ -1,3 +1,9 @@
+---
+sidebar_position: 2
+sidebar_label: Installation av LSPDFR
+sidebar_class_name: yellow
+---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import ReactPlayer from 'react-player'
